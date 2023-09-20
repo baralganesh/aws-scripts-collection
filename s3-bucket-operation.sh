@@ -9,7 +9,7 @@ if ! grep -q aws_access_key_id ~/.aws/config; then
 fi
 
 ######################################################################
-#Requesting input
+#Request input
 #echo "following bucket will be created"
 #echo "app-leap, static-dev or web-dev or dependency-dev"
 #read -r -p "Enter enviornment: " ENVNAME
